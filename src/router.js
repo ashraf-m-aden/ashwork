@@ -21,11 +21,11 @@ export const router = new VueRouter({
     { path: '/votre-profil', component: ServicesOne },
     { path: '/securite-informatique', component: Security },
     { path: '/cloud-entreprise', component: SharePoint },
-    { path: '/a-propos-de-nous', component: Apropos },
+    { path: '/about', component: Apropos },
     { path: '/not-found', component: NotFound },
     { path: '/contact', component: Contact },
     {
-      path: '*', redirect:'/not-found'
+      path: '*', redirect: '/not-found'
     }
   ]
 });

@@ -5,7 +5,11 @@
       <div class="container">
         <nav class="navbar navbar-expand-md navbar-light">
           <router-link class="navbar-brand" to="/">
-            <img src="../../assets/img/spotlight.png" class="logo" alt="spotlight it solutions djibouti" />
+            <img
+              src="../../assets/img/spotlight.png"
+              class="logo"
+              alt="spotlight it solutions djibouti"
+            />
           </router-link>
 
           <b-navbar-toggle target="navbarSupportedContent"></b-navbar-toggle>
@@ -17,14 +21,14 @@
           >
             <ul class="navbar-nav nav ml-auto">
               <li class="nav-item">
-                    <router-link to="/" class="nav-link active"
-                      >Acceuil</router-link
-                    >
+                <router-link to="/" class="nav-link active"
+                  >Acceuil</router-link
+                >
               </li>
 
               <li class="nav-item">
-                <router-link to="/a-propos-de-nous" class="nav-link"
-                  >A propos de nous</router-link
+                <router-link to="/about" class="nav-link"
+                  >A mon propos</router-link
                 >
               </li>
               <li class="nav-item">
@@ -47,49 +51,46 @@
                         >
                       </li>
                       <li class="nav-item">
-                        <router-link to="/local-network-data-center" class="nav-link"
+                        <router-link
+                          to="/local-network-data-center"
+                          class="nav-link"
                           >Data center</router-link
                         >
                       </li>
 
                       <li class="nav-item">
-                        <router-link to="/local-network-data-center" class="nav-link"
+                        <router-link
+                          to="/local-network-data-center"
+                          class="nav-link"
                           >Réseau local</router-link
                         >
                       </li>
                       <li class="nav-item">
-                        <router-link to="/securite-informatique" class="nav-link"
+                        <router-link
+                          to="/securite-informatique"
+                          class="nav-link"
                           >Sécurité informatique</router-link
                         >
                       </li>
-                                           <li class="nav-item">
+                      <li class="nav-item">
                         <a href="#" class="nav-link"
                           >Solutions collaboratives</a
                         >
                       </li>
-                                           <li class="nav-item">
-                        <a href="#"  class="nav-link"
-                          >Solutions materielles</a
-                        >
+                      <li class="nav-item">
+                        <a href="#" class="nav-link">Solutions materielles</a>
                       </li>
-                                           <li class="nav-item">
-                        <a href="#"  class="nav-link"
-                          >Solutions logicielles</a
-                        >
+                      <li class="nav-item">
+                        <a href="#" class="nav-link">Solutions logicielles</a>
                       </li>
-                                           <li class="nav-item">
-                        <a href="#"  class="nav-link"
-                          >Solution point de vente</a
-                        >
+                      <li class="nav-item">
+                        <a href="#" class="nav-link">Solution point de vente</a>
                       </li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a href="#"  class="nav-link"
-                      >Vos attentes</a
-                    >
+                    <a href="#" class="nav-link">Vos attentes</a>
                   </li>
-
                 </ul>
               </li>
 
@@ -99,40 +100,34 @@
                 ></a>
                 <ul class="dropdown_menu">
                   <li class="nav-item">
-                    <a href="#"  class="nav-link"
-                      >Création d'applications Web</a
-                    >
+                    <a href="#" class="nav-link">Création d'applications Web</a>
                   </li>
 
                   <li class="nav-item">
-                    <a href="#"  class="nav-link"
-                      >Consultation informatique</a
-                    >
+                    <a href="#" class="nav-link">Consultation informatique</a>
                   </li>
 
                   <li class="nav-item">
-                    <a href="#"  class="nav-link"
+                    <a href="#" class="nav-link"
                       >Distribution et installation</a
                     >
                   </li>
 
                   <li class="nav-item">
-                    <a href="#"  class="nav-link"
-                      >Assistance utilisateurs</a
-                    >
+                    <a href="#" class="nav-link">Assistance utilisateurs</a>
                   </li>
 
                   <li class="nav-item">
-                    <a href="#"  class="nav-link"
+                    <a href="#" class="nav-link"
                       >Vente des systemes et materiels informatiques</a
                     >
                   </li>
 
                   <li class="nav-item">
-                    <a href="#"  class="nav-link"
+                    <a href="#" class="nav-link"
                       >Formation informatique et bureautique</a
                     >
-                  </li> 
+                  </li>
                 </ul>
               </li>
 
