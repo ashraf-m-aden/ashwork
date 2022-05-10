@@ -4,13 +4,13 @@
     <div class="startp-nav">
       <div class="container">
         <nav class="navbar navbar-expand-md navbar-light">
-          <router-link class="navbar-brand" to="/">
+          <!-- <router-link class="navbar-brand" to="/">
             <img
               src="../../assets/img/spotlight.png"
               class="logo"
               alt="spotlight it solutions djibouti"
             />
-          </router-link>
+          </router-link> -->
 
           <b-navbar-toggle target="navbarSupportedContent"></b-navbar-toggle>
 
